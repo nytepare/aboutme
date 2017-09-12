@@ -1,2 +1,3 @@
 # aboutme
-This is a page about me.
+### My name is Amber Pare.
+I'm 19 years old and I'm addicted to chicken nuggets.
